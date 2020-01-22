@@ -16,6 +16,9 @@
 ## Git Checkout
 * git log
 * git checkout
+    * Moves HEAD to look at prior commits and can be returned by using "git checkout master"
+* To revert to prior changes.
+    * git revert --no-commit <hash>..HEAD
 
 ## Cloning and Github Intro
 * What is Github

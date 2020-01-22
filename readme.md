@@ -8,9 +8,10 @@
 * Installing Git (Not really)
 
 ## Git Basics
-* git init
-* git add
-* git commit
+* git init - initializes git repo
+* git status - checks status of files in relation to git
+* git add - adds files to staging area
+* git commit - commits added files(changes) to repo
 
 ## Git Checkout
 * git log
@@ -24,4 +25,3 @@
 * Creating a repo
 * Adding a remote
 * Pushing to Github
-
